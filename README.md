@@ -1,2 +1,2 @@
 # machinaris-truenas
-Machinaris application template for TrueNAS
+Machinaris for TrueNAS
